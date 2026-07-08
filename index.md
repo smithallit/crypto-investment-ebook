@@ -1,3 +1,5 @@
+![Crypto Investment Ebook Cover](assets/cover.png)
+
 # Welcome to the Crypto Investment Ebook
 
 This ebook is designed to help readers learn cryptocurrency investing from the ground up.

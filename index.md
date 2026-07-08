@@ -1,4 +1,4 @@
-![Crypto Investment Ebook Cover](/assets/cover.png)
+![Crypto Investment Ebook Cover](https://github.com/smithallit/crypto-investment-ebook/blob/main/assets/Cover.png)
 
 # Welcome to the Crypto Investment Ebook
 

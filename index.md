@@ -1,4 +1,4 @@
-![Crypto Investment Ebook Cover](assets/cover.png)
+![Crypto Investment Ebook Cover](/assets/cover.png)
 
 # Welcome to the Crypto Investment Ebook
 

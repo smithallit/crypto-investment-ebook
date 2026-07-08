@@ -1,0 +1,11 @@
+title: "Crypto Investment Ebook"
+description: "A beginner-to-advanced guide to investing in cryptocurrency"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-feed
+header_pages:
+  - index.md
+  - book/00-table-of-contents.md

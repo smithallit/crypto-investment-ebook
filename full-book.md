@@ -6,7 +6,7 @@ title: Crypto Investment Ebook (Full Expanded Edition)
 # Crypto Investment Ebook  
 ## Full Expanded Edition
 
-![Crypto Investment Ebook Cover](/crypto-investment-ebook/assets/cover.png)
+![Crypto Investment Ebook Cover](https://github.com/smithallit/crypto-investment-ebook/blob/main/assets/Cover.png)
 
 ## Table of Contents
 
